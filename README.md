@@ -17,11 +17,11 @@ Student Number: 104405835
 
 Work Partitioning：
 
-?	Software Requirement Specification:                      	   Yiwei Liu and Wanying Li
-?	UI design: 			    				   Wanying Li
-?	Database design, implementation, test: 				   Yiwei Liu
-?	User guide: 							   Yiwei Liu, Xiaoliang Tang
-?	Client UI Implementation (including 3D map, google map API), test: Xiaoliang Tang
-?	Service implementation and test: 				   Zhihao Yan
+	Software Requirement Specification:                      	   Yiwei Liu and Wanying Li
+	UI design: 			    				   Wanying Li
+	Database design, implementation, test: 				   Yiwei Liu
+	User guide: 							   Yiwei Liu, Xiaoliang Tang
+	Client UI Implementation (including 3D map, google map API), test: Xiaoliang Tang
+	Service implementation and test: 				   Zhihao Yan
 
 
